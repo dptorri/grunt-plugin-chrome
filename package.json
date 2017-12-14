@@ -1,0 +1,20 @@
+{
+  "name": "grunt-plugin-chrome",
+  "version": "1.0.0",
+  "description": "application’s start page open in the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dptorri/grunt-plugin-chrome.git"
+  },
+  "author": "Daniel Palacios",
+  "author email":"dptorri@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dptorri/grunt-plugin-chrome/issues"
+  },
+  "homepage": "https://github.com/dptorri/grunt-plugin-chrome#readme"
+}
