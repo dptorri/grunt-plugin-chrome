@@ -11,10 +11,13 @@
     "url": "git+https://github.com/dptorri/grunt-plugin-chrome.git"
   },
   "author": "Daniel Palacios",
-  "author email":"dptorri@gmail.com",
+  "author email": "dptorri@gmail.com",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dptorri/grunt-plugin-chrome/issues"
   },
-  "homepage": "https://github.com/dptorri/grunt-plugin-chrome#readme"
+  "homepage": "https://github.com/dptorri/grunt-plugin-chrome#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
 }
